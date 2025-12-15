@@ -65,7 +65,7 @@ const Index = () => {
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <Gift className="h-6 w-6 text-primary" />
-            <span className="font-display text-xl font-semibold text-foreground">Poillais</span>
+            <span className="font-display text-xl font-semibold text-foreground">Your Business</span>
           </div>
           <div className="hidden md:flex items-center gap-8">
             <a href="#deals" className="text-muted-foreground hover:text-foreground transition-colors">Holiday Deals</a>
@@ -357,10 +357,10 @@ const Index = () => {
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <div className="flex items-center gap-2">
               <Gift className="h-5 w-5 text-primary" />
-              <span className="font-display font-semibold text-foreground">Poillais</span>
+              <span className="font-display font-semibold text-foreground">Your business</span>
             </div>
             <p className="text-muted-foreground text-sm">
-              © 2025 Poillais. All rights reserved. | Wishing you a joyful holiday season!
+              © 2025 Your business. All rights reserved. | Wishing you a joyful holiday season!
             </p>
           </div>
         </div>
